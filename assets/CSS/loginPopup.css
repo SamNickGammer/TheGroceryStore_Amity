@@ -1,0 +1,158 @@
+@font-face {
+  font-family: Segoe UI Semibold;
+  src: url('fonts/SEGUISB.TTF');
+}
+
+@font-face {
+  font-family: Segoe UI Bold;
+  src: url('fonts/SEGOEUIB.TTF');
+}
+
+@font-face {
+  font-family: Segoe UI Regular;
+  src: url('fonts/SEGOEUI.TTF');
+}
+
+:root {
+  --regular-color: #ffffff;
+  --gray-f0: #f0f0f0;
+  --gray-d: #ddd;
+  --gray-9b: #9b9b9b;
+  --gray-1b: #1b1b1b;
+  --yello-ff: #ffeb78;
+  --regular-font: 'Segoe UI', sans-serif;
+  --regular-font-weight: 500;
+  --regular-border-radius: 0.25rem;
+  --hover-list-color: #3eb05c;
+  --font-cursive: 'Avocado Creamy', sans-serif;
+  --main-theme-background-color: #009126;
+}
+
+@import url('http://fonts.cdnfonts.com/css/segoe-ui-variable');
+
+.backgroundPopup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loginPopupPP {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerPopup {
+  background-color: white;
+  /* width: 450px;
+  height: 480px; */
+  width: 580px;
+  height: 520px;
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 2px 0px 0px 2px;
+}
+
+.termsCondTxtPopup {
+  color: var(--gray-9b);
+  margin-bottom: 10px;
+}
+
+.sub-containerPopup {
+  padding: 40px;
+  background-color: #009126;
+  width: 400px;
+  height: 520px;
+  border-radius: 0px 2px 2px 0px;
+}
+
+.loginBtnPopup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: large;
+  font-family: 'Segoe UI';
+  font-weight: 500;
+  background-color: #009126;
+  border: none;
+  border-radius: 3px;
+  height: 45px;
+  width: 100%;
+}
+
+.loginBtnPopup:hover {
+  cursor: pointer;
+  background-color: #007720;
+}
+
+form {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.inputForm > input {
+  width: 100%;
+  height: 40px;
+  margin: 0px 0px 25px 0px;
+  border: 1px solid #707070;
+  border-radius: 3px;
+  font-size: 17px;
+  padding-left: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+.subConTextPopup {
+  color: white;
+}
+
+.loginTxtPopup {
+  font-size: 35px;
+  font-family: 'Segoe UI';
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+.mTextPopup {
+  display: flex;
+  width: 100%;
+  font-family: 'Segoe UI';
+  margin-bottom: 3px;
+}
+
+.new_acc_textPopup {
+  text-decoration: none;
+  color: blue;
+  user-select: none;
+}
+
+.new_acc_textPopup:hover {
+  cursor: pointer;
+  color: rgb(0, 0, 152);
+}
+
+.beautifuTxtPopup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.loginImgPopup {
+  position: relative;
+  left: -28px;
+  height: 78%;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}

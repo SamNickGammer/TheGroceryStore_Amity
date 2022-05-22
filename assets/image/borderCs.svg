@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="180" viewBox="0 0 352 180">
+    <g id="Rectangle_14" data-name="Rectangle 14" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="7">
+        <path d="M0,0H352a0,0,0,0,1,0,0V173a7,7,0,0,1-7,7H7a7,7,0,0,1-7-7V0A0,0,0,0,1,0,0Z" stroke="none" />
+        <path d="M1,.5H351a.5.5,0,0,1,.5.5V173a6.5,6.5,0,0,1-6.5,6.5H7A6.5,6.5,0,0,1,.5,173V1A.5.5,0,0,1,1,.5Z"
+            fill="none" />
+    </g>
+</svg>
