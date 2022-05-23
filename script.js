@@ -96,8 +96,10 @@ listItemSideBarcont.forEach((item, index) => {
 });
 
 window.onclick = function (event) {
-  if (event.target == loginPopupPP) {
-    loginPopUpCont.style.display = 'none';
+  console.log(event.target);
+  if (event.target === overlay) {
+    profilePopupIFrame.style.display = 'none';
+    overlay.style.display = 'none';
     document.body.classList.remove('stop-scrolling');
   }
 };

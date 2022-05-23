@@ -1,4 +1,5 @@
 const loginSignUpBtn = document.querySelector('#loginBtn');
+const emailField = document.querySelector('#emailField');
 const nameField = document.querySelector('#nameField');
 const phoneField = document.querySelector('#phoneField');
 const passwordField = document.querySelector('#passwordField');
@@ -8,12 +9,15 @@ const loginTxt = document.querySelector('#loginTxt');
 newAccBtn.addEventListener('click', () => {
   if (loginSignUpBtn.textContent == 'Login') {
     showElem(nameField);
+    showElem(phoneField);
+    hideElem(emailField);
     loginSignUpBtn.innerHTML = 'Signup';
     newAccBtn.innerHTML = 'Already have an account? Login.';
     loginTxt.innerHTML = 'Signup';
   } else {
     hideElem(nameField);
-
+    hideElem(phoneField);
+    showElem(emailField);
     loginSignUpBtn.innerHTML = 'Login';
     newAccBtn.innerHTML = 'New here? Create an account.';
     loginTxt.innerHTML = 'Login';
@@ -30,27 +34,15 @@ function hideElem(elem) {
   elem.previousSibling.previousSibling.style.display = 'none';
 }
 
-const userAccountImage = document.querySelector('.userAccountImage');
-const loginPopUpCont = document.querySelector('.loginPopUpCont');
-const loginPopupPP = document.querySelector('.loginPopupPP');
-
-userAccountImage.onclick = function () {
-  if (localStorage.getItem('userDetails')) {
-    alert('logindone');
-  } else {
-    loginPopUpCont.style.display = 'block';
-    document.body.classList.add('stop-scrolling');
-  }
-};
-
-function submitHandller() {
+const formSUbmit = document.querySelector('.formSUbmit');
+formSUbmit.addEventListener('submit', (e) => {
+  e.preventDefault();
   localStorage.setItem(
     'userDetails',
     JSON.stringify({
-      name: nameField.value,
-      phone: phoneField.value,
+      email: emailField.value,
       password: passwordField.value,
     })
   );
-  loginPopUpCont.style.display = 'none';
-}
+  console.log(emailField.value, passwordField.value);
+});

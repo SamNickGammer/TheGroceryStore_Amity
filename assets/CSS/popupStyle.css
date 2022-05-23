@@ -1,0 +1,38 @@
+.profilePopupIFrame {
+  width: 60rem;
+  height: 38rem;
+  border: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* background-color: rgb(255, 0, 0); */
+  background: none;
+  z-index: 999;
+}
+.profilePopupIFrame {
+  display: none;
+}
+
+.overlay {
+  display: none;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(95, 95, 95, 0.546);
+  z-index: 998;
+}
+.productIFrame {
+  width: 78rem;
+  height: 36rem;
+  border: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* background-color: rgb(255, 0, 0); */
+  background: none;
+  z-index: 999;
+  display: none;
+}

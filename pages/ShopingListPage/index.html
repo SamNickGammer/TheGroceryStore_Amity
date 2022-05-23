@@ -8,7 +8,7 @@
     <title></title>
     <link rel="stylesheet" href="./style.css">
     <link rel="stylesheet" href="../../style.css">
-    <link rel="stylesheet" href="../../assets/CSS/loginPopup.css">
+    <link rel="stylesheet" href="../../assets/CSS/popupStyle.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
         integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -228,39 +228,14 @@
             </div>
         </div>
     </div>
-    <div class="loginPopUpCont">
-        <div class="loginPopupPP">
-            <div class="containerPopup">
-                <form class="inputForm" action="data.jsp">
-                    <span style="display: none;" class="mTextPopup"><b>Full Name*</b></span>
-                    <input style="display: none;" id="nameField" type="text" placeholder="Jhon Doe">
-                    <span style="display: none;" class="mTextPopup"><b>Phone*</b></span>
-                    <input style="display: none;" id="phoneField" type="tel" placeholder="+91 012 345 678">
-                    <span class="mTextPopup"><b>Email or Phone*</b></span>
-                    <input id="emailField" type="email" placeholder="someone@example.com">
-                    <span class="mTextPopup"><b>Password*</b></span>
-                    <input id="passwordField" type="password" placeholder="•••••••••••••••••••••••">
-                    <span class="termsCondTxt">By continuing, you agree to our<a href="terms.html"> Terms of Use</a> and
-                        <a href="">Privacy Policy</a></span>
-                    <button id="loginBtn" class="loginBtnPopup">Login</button>
-                </form>
-                <span id="newAccBtn" class="new_acc_textPopup">New here? Create an account.</span>
-            </div>
-            <div class="sub-containerPopup">
-                <div class="beautifuTxtPopup">
-                    <span id="loginTxt" class="loginTxtPopup subConTextPopup">Login</span>
-                    <span style="margin-top: 20px" class="subConTextPopup">What you need? We have it all.</span>
-                    <span class="subConTextPopup">You want grocery? Just buy it all.</span>
-                </div>
-                <div class="loginImgPopup">
-                    <img height="180px" src="../../assets/image/loginImg.png">
-                </div>
-            </div>
-        </div>
-    </div>
+
+    <div class="overlay"></div>
+    <iframe class="profilePopupIFrame" src="../../pages/Login Page/index.html" frameborder="0"></iframe>
+    <iframe class="productIFrame" src="../ProductPagePopup/productPopup.html" frameborder="0"></iframe>
+
 
     <script src="../../localDatabase.js"></script>
-    <script src="../../assets/JS/loginSignUp.js"></script>
+    <script src="../../assets/JS/loginPopupFrame.js"></script>
     <script src="../../script.js"></script>
     <script src="./script.js"></script>
 </body>

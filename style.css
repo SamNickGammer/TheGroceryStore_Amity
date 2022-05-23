@@ -522,6 +522,7 @@ body {
   margin-top: 10px;
   border-radius: 5px;
   /* flex-direction: column; */
+  color: #fff;
 
   padding: 10px 35px;
 }
@@ -532,11 +533,21 @@ body {
   flex-direction: column;
   width: 45%;
 }
+.footerAbout .aboutTxt {
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
 .footerContact {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 25%;
+  width: 8%;
+}
+.footerContact > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .footerTermPolicy {
   display: flex;
@@ -753,6 +764,10 @@ body {
 .amountCont > .amountBtn {
   cursor: pointer;
 }
+.modal-content::-webkit-scrollbar {
+  display: none;
+}
+
 /*!Misl Styles............*/
 .stop-scrolling {
   height: 100%;

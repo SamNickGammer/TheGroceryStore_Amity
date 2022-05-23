@@ -1,7 +1,27 @@
 const sideBarBody = document.querySelector('.sideBarBody');
 const listOfName = document.querySelector('.listOfName');
 const listofitems = [
-  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+  {
+    name: 'Natureland Organics Peanut',
+    price: '₹105',
+    discount: '₹125',
+    discountPercent: '16% off',
+    image: '../../assets/image/dairy.png',
+  },
+  {
+    name: 'Natureland Organics',
+    price: '₹105',
+    discount: '₹125',
+    discountPercent: '16% off',
+    image: '../../assets/image/dairy.png',
+  },
+  {
+    name: 'Natureland Peanut',
+    price: '₹105',
+    discount: '₹125',
+    discountPercent: '16% off',
+    image: '../../assets/image/dairy.png',
+  },
 ];
 
 var url = new URL(window.location.href);
@@ -58,7 +78,7 @@ function showDataSets(itemName) {
         ${listofitems
           .map((item) => {
             return `<div class="itembodysingleItem">
-            <div class="singleBodyImage">
+            <div class="singleBodyImage" item='${JSON.stringify(item)}'>
                 <img src="../../assets/image/dairy.png" alt="">
             </div>
             <div class="singleBodyTitle">
@@ -96,8 +116,21 @@ function showDataSets(itemName) {
 // };
 
 window.onclick = function (event) {
-  if (event.target == loginPopupPP) {
-    loginPopUpCont.style.display = 'none';
+  console.log(event.target);
+  if (event.target === overlay) {
+    profilePopupIFrame.style.display = 'none';
+    productIFrame.style.display = 'none';
+    overlay.style.display = 'none';
     document.body.classList.remove('stop-scrolling');
   }
 };
+
+const singleBodyImage = document.querySelectorAll('.singleBodyImage');
+singleBodyImage.forEach((item) => {
+  item.addEventListener('click', (e) => {
+    console.log(JSON.parse(item.getAttribute('item')).name);
+    productIFrame.style.display = 'block';
+    overlay.style.display = 'block';
+    document.body.classList.add('stop-scrolling');
+  });
+});

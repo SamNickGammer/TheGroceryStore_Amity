@@ -1,0 +1,230 @@
+@import url('http://fonts.cdnfonts.com/css/segoe-ui-variable');
+@import url('http://fonts.cdnfonts.com/css/avocado-creamy');
+
+:root {
+  --regular-color: #ffffff;
+  --gray-f0: #f0f0f0;
+  --gray-d: #ddd;
+  --gray-9b: #9b9b9b;
+  --gray-1b: #1b1b1b;
+  --yello-ff: #ffeb78;
+  --regular-font: 'Segoe UI', sans-serif;
+  --regular-font-weight: 500;
+  --regular-border-radius: 0.25rem;
+  --hover-dark-color: #007920;
+  --font-cursive: 'Avocado Creamy', sans-serif;
+  --main-theme-background-color: #009126;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: var(--regular-font);
+}
+
+
+/*-------------------------------------------------*/
+.productPagePopupContainer {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.productPagePopup {
+  display: flex;
+  background-color: white;
+  height: 80%;
+  border-radius: var(--regular-border-radius)
+}
+.productImagesContainer {
+  height: 100%;
+  width: 120px;
+}
+.focusedImageContainer {
+  border-radius: 2px;
+  height: calc(100% -20px);
+  width: 420px;
+  margin: 20px 20px 20px 0px;
+}
+.focusedImage{
+  border: 1px solid var(--gray-9b);
+  padding: 40px;
+  height: 87%;
+}
+.productImagesFocused {
+  height: 100%;
+  width: 100%;
+}
+.productDetailsContainer {
+  padding: 10px 0px 10px 0px;
+  height: 100%;
+  width: 700px;
+}
+.productButtonCont{
+  display: flex;
+  height: 60px;
+  width: 100%;  
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.pb{
+  border: none;
+  padding: 15px 55px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Segoe UI';
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.16);
+}
+.pb:hover{
+  cursor: pointer;
+}
+.addToCartButton{
+  background-color: var(--main-theme-background-color);
+  color: white;
+}
+.addToCartButton:hover{
+  background-color: var(--hover-dark-color);
+}
+.buyNowButton{
+  background-color: var(--yello-ff);
+}
+.buyNowButton:hover{
+  background-color: #e4c200
+}
+.productName{
+  font-family: "Segoe UI Semibold";
+  font-size: 25px;
+  margin-bottom: 10px;
+
+}
+.productImages {
+  margin: 20px 20px 0px 20px;
+  border: 2px solid var(--main-theme-background-color);
+}
+.ratingRow {
+  display: flex;
+  align-items: center;
+}
+
+.ratingStarsContainer {
+  margin-left: 10px;
+}
+#ratingMask {
+  width: 133px; height: 25px; background-color: white; position: r; left: 844px
+}
+.ratingRowBox {
+  background-color: var(--main-theme-background-color);
+  color: white;
+  border-radius: 2px;
+  padding: 0px 5px 2px 5px;
+}
+
+.ratingText{
+  font-family: 'Segoe UI Semibold';
+  color: var(--gray-9b);
+  margin-left: 20px;
+}
+
+.priceText{
+  margin-top: 20px;
+}
+
+#actualPriceText{
+  font-weight: bold;
+  font-size: 25px;
+}
+#mrpTxt, #discountTxt{
+  font-weight: 600;
+  margin-left: 10px;
+  font-size: 20px;
+}
+#mrpTxt{
+  text-decoration: line-through;
+  color: var(--gray-9b);
+}
+
+#discountTxt{
+  color: var(--main-theme-background-color)
+}
+.expiryTxt{
+  display:flex;
+  flex-direction: row;
+  margin: 10px 0 10px 0;
+}
+.pinCheckContainer{
+  margin-top: 60px;
+}
+#pinInput{
+  margin-left: 40px;
+  border: none;
+  font-size: 20px;
+  outline: none;
+  box-shadow: inset 0px 0px 4px rgb(0 0 0 / 16%);
+  padding: 5px 5px 5px 10px;
+  border-radius: 3px;
+  width: 150px;
+}
+#pinChkBtn {
+  background-color: var(--main-theme-background-color);
+  color: white;
+  border: none;
+  padding: 5px 20px 5px 20px;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 3px;
+}
+#pinChkBtn:hover {
+  background-color: var(--hover-dark-color);
+  cursor: pointer;
+}
+.quantitySelectContainer {
+  margin-top: 10px;
+}
+.quantitiesSelect{
+  height: 65px;
+  width: 65px;
+  margin: 6px;
+  border: 3px solid var(--gray-d);
+  border-radius: 3px;
+  background-color: white;
+  font-size: 20px;
+  font-family: 'Segoe UI';
+  font-weight: 500;
+}
+.quantitiesSelect:hover {
+  cursor: pointer;
+  border-color: var(--main-theme-background-color)
+}
+.sellerNameText {
+  margin-top: 100px;
+}
+#sellerName{
+  font-weight: 500;
+  color: blue;
+}
+
+.more-info-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  font-size: 20px;
+  font-weight:500;
+  border-radius: 3px;
+  color: var(--main-theme-background-color);
+}
+.more-info-button:hover {
+  cursor: pointer;
+  box-shadow: 0px 0px 6px rgb(0 0 0 / 16%);
+}
+
+#ratingMask {
+  width: 133px; height: 25px; background-color: white; position: absolute; left: 752px
+}
