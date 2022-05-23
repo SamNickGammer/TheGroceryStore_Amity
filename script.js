@@ -88,10 +88,6 @@ listItemSideBarcont.forEach((item, index) => {
       item.parentElement.parentElement.parentElement.firstElementChild.innerText
     );
     window.location.href = `./pages/ShopingListPage/index.html?c=${item.parentElement.parentElement.parentElement.firstElementChild.innerText}&s=${e.target.innerText}`;
-    // window.open(
-    //   `./pages/ShopingListPage?q=${e.target.innerHTML}&i=${index}`,
-    //   '_self'
-    // );
   });
 });
 

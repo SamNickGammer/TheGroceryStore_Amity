@@ -1,0 +1,33 @@
+.bodyContainer {
+  height: calc(100vh - 60px);
+}
+.displayFlexCont {
+  display: block;
+}
+.bodyContainer .bodyMain {
+  width: 100%;
+  margin-left: 0;
+  height: calc(100vh - 60px);
+  background-color: red;
+}
+.bodyMain {
+  display: flex;
+  flex-direction: row;
+}
+.bodyMain .imageUser {
+  background-color: blue;
+  height: calc(100vh - 60px - 20px);
+  width: 20%;
+  margin-right: 10px;
+}
+.bodyMain .personalInformation {
+  background-color: aqua;
+  height: calc(100vh - 60px - 20px);
+  width: 40%;
+  margin-right: 10px;
+}
+.bodyMain .orderDetails {
+  background-color: rebeccapurple;
+  height: calc(100vh - 60px - 20px);
+  width: 40%;
+}

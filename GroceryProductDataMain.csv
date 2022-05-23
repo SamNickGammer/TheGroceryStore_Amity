@@ -1,0 +1,79 @@
+﻿productID,productName,productPrice,productRating,productDiscount,productExp,productWeight,productSeller,productBrand,manufacturedAddress,productCategory,productSubCategory
+1,AASHIRVAAD Organic Chana Dal (Split),200,4.4,45,19-08-2022,1 Kg,SuperComNet,AASHIRVAAD,"Kay Kay Agro process PVt. Ltd., Sy. No. 34, Soukya Road, Kacharakanahalli, Via Whitefield,Bengaluru- 560067, Karnataka",Essential,Dals And Pulse
+2,Toor/Arhar Dal (Split),190,4.2,35,05-10-2022,1 Kg,SuperComNet,Unbranded,"Survey No-22, Unit-1, Subbaiah INDL Estate, Begur Hobali, Hulimavu Main Road , Bannerughatta Road",Essential,Dals And Pulse
+3,Himalayan Natives Yellow Toor/Arhar Dal (Split) (Pesticide Free),219,4.1,36,24-04-2023,1 Kg,SuperComNet,Himalayan Natives,"NO 40, D M Nagappa, Garudachar palya, Mahadevapura Post Bengaluru, Bangalore,Karnataka,560048",Essential,Dals And Pulse
+4,Natureland Organics Moong Dal (Split),260,4.4,30,31-01-2023,1 Kg,SuperComNet,Natureland Organics,"D- 325, 326, Agro Food Park RICCO, Sri Ganganagar",Essential,Dals And Pulse
+5,Tata Sampann Yellow Moong Dal (Split),88,4.4,7,27-03-2023,500 g,SuperComNet,Tata Sampann,Saraswati ebtrtprise vil sankharidaha PO -befri Ps -domjur hoearah -711411,Essential,Dals And Pulse
+6,Classic Green Moong Dal (Whole) by Flipkart Grocery,93,4.4,29,14-10-2022,500 g,SuperComNet,Classic,"366/1, Vikram Warehouse,Nemawar Road, Gram Palda,Indore,Madhya Pradesh,India-452002",Essential,Dals And Pulse
+7,Classic Brown Chana (Whole) by Flipkart Grocery,90,4.3,45,14-10-2022,500 g,SuperComNet,Classic,"366/1, Vikram Warehouse,Nemawar Road, Gram Palda,Indore,Madhya Pradesh,India-452002",Essential,Dals And Pulse
+8,safe harvest Brown Bengal Gram (Whole) (Pesticide Free),175,4.1,24,23-01-2023,1 Kg,SuperComNet,safe harvest,"6,Sy no.28,Yashodara Nagar Colony,Bairamalguda Village,Saroor Nagar Mandal,Rangareddy Dist, Hyderabad-500079,Telangana",Essential,Dals And Pulse
+9,Flipkart Supermart Select Chana Dal (Split),140,4.3,25,23-09-2022,1 Kg,SuperComNet,Flipkart Supermart Select,"Survey No-22, Unit-1, Subbaiah INDL Estate, Begur Hobali, Hulimavu Main Road , Bannerughatta Road",Essential,Dals And Pulse
+10,Rajdhani Chana Dal (Split),76,4.3,26,08-10-2022,500 g,SuperComNet,Rajdhani,"Janti Road Pvt Ltd, Janti Road,Kundli,Dist.Sonipat,Haryana-131028",Essential,Dals And Pulse
+11,INDIA GATE Feast Rozzana Basmati Rice,111,4,9,18-02-2024,1 Kg,SuperComNet,INDIA GATE,"9th mile stone, Post dujana, bulandhshahar road, Gautam budda nagar(UP)-203207",Essential,Rice And Flour
+12,"Fortune Hamesha Basmati Rice (Broken Grain, Steam)",425,4.2,23,29-03-2024,5 Kg,SuperComNet,Fortune,"Fortune HouseNear Navrangpura Railway Crossing,Ahmedabad - 380 009, GUJARAT (India)",Essential,Rice And Flour
+13,BEMISAL Parmal Rice (Long Grain),160,3.1,65,21-01-2024,1 Kg,SuperComNet,BEMISAL,"9th mile stone, Post dujana, bulandhshahar road, Gautam budda nagar(UP)-203207",Essential,Rice And Flour
+14,Lalbaba Ratna Rice (Long Grain),500,4.1,3,12-07-2022,10 Kg,SuperComNet,Lalbaba,"VILLAGE-PARAJ,THANA-GALSI,BURDWAN,WEST BENGAL,Burdwan,West Bengal,India,713403",Essential,Rice And Flour
+15,Daawat Rozana Super Basmati Rice (Medium Grain),425,4.2,15,19-02-2024,5 Kg,SuperComNet,Daawat,"LT foods limited, 43rd Milestone, GT road , Bahalgarh, Sonipat , Haryana 131021",Essential,Rice And Flour
+16,Flipkart Supermart Select Refined Wheat Flour (Maida),75,4.3,29,16-07-2022,1 Kg,SuperComNet,Flipkart Supermart Select,"Survey No-22, Unit-1, Subbaiah INDL Estate, Begur Hobali, Hulimavu Main Road , Bannerughatta Road",Essential,Rice And Flour
+17,Agro Fresh Maida,50,4.3,8,29-06-2022,1 Kg,SuperComNet,Agro Fresh,"G-9, MANGALPUR INDUSTRIAL ESTATE,RANIGANJ, Bardhaman, west bengal",Essential,Rice And Flour
+18,"Tata Sampann 100% Chana Dal Fine Besan, Gram Flour",125,4.4,21,18-10-2022,1 Kg,SuperComNet,Tata Sampann,Saraswati ebtrtprise vil sankharidaha PO -befri Ps -domjur hoearah -711411,Essential,Rice And Flour
+19,Flipkart Supermart Select Besan,150,4.3,18,30-06-2022,1 Kg,SuperComNet,Flipkart Supermart Select,"Survey No-22, Unit-1, Subbaiah INDL Estate, Begur Hobali, Hulimavu Main Road , Bannerughatta Road",Essential,Rice And Flour
+20,Organic Tattva Wheat Maida,55,4,14,19-11-2022,500 g,SuperComNet,Organic Tattva,"Mehrotra Consumer Products Pvt. Ltd. 26G, Sector 31, Ecotech I, Greater Noida 201308, UP, INDIA",Essential,Rice And Flour
+21,Nutralite DoodhShakti Pure Ghee,575,4.2,18,31-12-2022,1 L,SuperComNet,Naturalite,"SchemeNo.63,Survey No 536, Zydus Corporate Park,Near Vaishnodevi Circle, Khoraj,Gandhinagar,Ahmedabad,Gujarat-382481",Essential,GheeAndOils
+22,Annapurna Desi Ghee,532,4.4,6,23-02-2023,1 L,SuperComNet,Annapurna,"171/M, Picnic Garden Road, West Bengal",Essential,GheeAndOils
+23,Nestle Everyday Shahi Ghee,500,4.3,1,20-12-2022,1 L,SuperComNet,Nestle,"Nestle India Ltd., 100/101, World Trade Centre, Barakhamba Lane, New Delhi-110001",Essential,GheeAndOils
+24,Flipkart Grocery Classic Desi Ghee,285,4.2,12,02-12-2022,500 ml,SuperComNet,Flipkart Grocery,"427, Srinivasa Nilaya, Amarjyothi Layout, Domlur, Bengaluru (Bangalore)",Essential,GheeAndOils
+25,AASHIRVAAD Svasti Pure Cow Ghee,605,4.4,7,23-01-2023,1 L,SuperComNet,AASHIRVAAD,"At: plot No.41, 4th phase, Industrial Area, Malur Taluk-563130",Essential,GheeAndOils
+26,Fortune Rice Bran Oil Pouch,225,4.5,15,17-03-2023,1 L,SuperComNet,Fortune,"5th Floor, C Buliding, MBC Park, Godbunder Road, Thane West, Thane - 400610, Near Kasarvadavali, Near Hypercity",Essential,GheeAndOils
+27,EMAMI Healthy & Tasty Refined Rice Bran Oil Pouch,220,4.4,15,13-12-2022,1 L,SuperComNet,EMAMI,Emami Agrotech limited 149 debhog HPL link road Po Bhabanipur haldia-721657,Essential,GheeAndOils
+28,Dhara Kachi Ghani Mustard Oil Mustard Oil Can,1075,4.5,8,26-12-2022,5 L,SuperComNet,Dhara,"Vaishnodevi Refoils & Solvex,plot No.235/3 GIDC,Chandisar,Taluka-Palanpur,Dist.Banaskantha-385 510,GUJRAT",Essential,GheeAndOils
+29,Saffola Gold Blended Oil Can,1330,4.5,10,19-01-2023,5 L,SuperComNet,Saffola,"7th Floor, Grande Palladium, 175, CST Road, Kalina, Santa Cruz (East), Kolivery Village, MMRDA Area, BKC, Santacruz East",Essential,GheeAndOils
+30,Fortune Kachi Ghani Mustard Oil Plastic Bottle,212,4.4,10,29-04-2023,1 L,SuperComNet,Fortune,"5th Floor, C Buliding, MBC Park, Godbunder Road, Thane West, Thane - 400610, Near Kasarvadavali, Near Hypercity",Essential,GheeAndOils
+31,Catch Super Garam Masala,85,4.2,25,26-03-2023,200 g,SuperComNet,Catch,"DS Spiceco Pvt Ltd B-6 17,18,19 sector -Noida 201301",Essential,SpicesAndMasala
+32,Catch Jeera Powder,61,4.4,18,23-02-2023,100 g,SuperComNet,Catch,"DS Spiceco Pvt Ltd B-6 17,18,19 sector -Noida 201301",Essential,SpicesAndMasala
+33,Catch Coriander/Dhaniya Powder,72,4.4,20,26-03-2023,200 g,SuperComNet,Catch,"DS Spiceco Pvt Ltd B-6 17,18,19 sector -Noida 201301",Essential,SpicesAndMasala
+34,Catch Red Chilli Powder,102,4.3,20,26-03-2023,200 g,SuperComNet,Catch,"DS Spiceco Pvt Ltd B-6 17,18,19 sector -Noida 201301",Essential,SpicesAndMasala
+35,Catch Amchur Powder,42,4.7,19,26-01-2023,50 g,SuperComNet,Catch,"DS Spiceco Pvt Ltd B-6 17,18,19 sector -Noida 201301",Essential,SpicesAndMasala
+36,Tata Sampann Coriander/Dhaniya Powder,40,4.5,10,26-03-2023,100 g,SuperComNet,Tata Sampann,Saraswati ebtrtprise vil sankharidaha PO -befri Ps -domjur hoearah -711411,Essential,SpicesAndMasala
+37,Tata Sampann Garam Masala,41,4.3,12,24-06-2023,45 g,SuperComNet,Tata Sampann,Saraswati ebtrtprise vil sankharidaha PO -befri Ps -domjur hoearah -711411,Essential,SpicesAndMasala
+38,JK Panch Foran,38,4.3,7,26-03-2023,100 g,SuperComNet,JK,"22, Amratala St, Bortola, Barabazar Market, Kolkata, West Bengal 700001",Essential,SpicesAndMasala
+39,JK Bayleaf,25,4.1,8,25-11-2022,50 g,SuperComNet,JK,"22, Amratala St, Bortola, Barabazar Market, Kolkata, West Bengal 700001",Essential,SpicesAndMasala
+40,EVEREST Kashmirilal Chilli Powder,85,4.3,0,27-02-2023,100 g,SuperComNet,EVEREST,"S.Narendra kumar & Co 4/B, L.B.S Marg, Vikrolhi, (W), Mumbai-400083",Essential,SpicesAndMasala
+41,ProV California Independence Almonds,698,4.3,48,27-09-2022,500 g,SuperComNet,ProV,"Plot no A/719, Near DMK Cold Storage Opposite Parmeet Hotel, TTC Ind Area, MIDC-Khairne",Essential,Dry Fruits
+42,"Farmley Popular California Almonds, Tasty, Crunchy, Nutritious Badaam",899,4.3,50,21-10-2022,500 g,SuperComNet,Farmley,"Plot No 86, Okhla Industrail, Estate Phase - III, South East Delhi",Essential,Dry Fruits
+43,"Farmley Premium California Almonds, 100% Natural, 2 Times Crunchier, Badaam",1899,4.4,51,05-09-2022,1 Kg,SuperComNet,Farmley,"Plot No 86, Okhla Industrail, Estate Phase - III, South East Delhi",Essential,Dry Fruits
+44,Farmley Selecta Green Long Raisins,199,4.2,58,01-01-2023,200 g,SuperComNet,Farmley,"Plot No 86, Okhla Industrail, Estate Phase - III, South East Delhi",Essential,Dry Fruits
+45,"Farmley Selecta Black Seedless Raisins, 100% Natural (Kishmish)",199,4.1,35,21-11-2022,200 g,SuperComNet,Farmley,"Plot No 86, Okhla Industrail, Estate Phase - III, South East Delhi",Essential,Dry Fruits
+46,Flipkart Supermart Select Black Raisins,102,4.1,46,23-07-2022,100 g,SuperComNet,Flipkart Supermart Select,"Hyper Market Services, Sy No-22/1,Begur Hobli,Hulimavu Road,4th Cross,Bangalore-560076",Essential,Dry Fruits
+47,Flipkart Supermart Select Bold W240 Whole Cashews,192,4.3,35,11-08-2022,100 g,SuperComNet,Flipkart Supermart Select,"Hyper Market Services, Sy No-22/1,Begur Hobli,Hulimavu Road,4th Cross,Bangalore-560076",Essential,Dry Fruits
+48,Flipkart Supermart Select Extra Bold Californian Almonds,175,4.3,17,21-09-2022,100 g,SuperComNet,Flipkart Supermart Select,"Hyper Market Services, Sy No-22/1,Begur Hobli,Hulimavu Road,4th Cross,Bangalore-560076",Essential,Dry Fruits
+49,Classic Roasted and Salted Pistachios by Flipkart Grocery,400,4.2,40,05-08-2022,200 g,SuperComNet,Classic,"22,Unit-1, Subbaiah INDL Estate,Hulimavu Main Road,Bangalore,Karnataka,India-560076",Essential,Dry Fruits
+50,Classic Apricots by Flipkart Grocery,300,3.9,43,06-07-2022,200 g,SuperComNet,Classic,"22,Unit-1, Subbaiah INDL Estate,Hulimavu Main Road,Bangalore,Karnataka,India-560076",Essential,Dry Fruits
+51,Uttam Sugar Sulphurfree Sugar,65,4.4,21,20-03-2024,1 Kg,SuperComNet,Uttam Sugar,"Village Libberheri, Tehsil, Roorkee,District",Essential,"Sugar,Jaggery&Salt"
+52,Sugarlite 50% Less Calories Sugar,99,4.3,35,20-11-2023,500 g,SuperComNet,Sugarlite,"Integrated Industrial Estate Plot no 4,sec 2 pant Nagar Distt Udham singh nagar ,Uttarakhand 263146",Essential,"Sugar,Jaggery&Salt"
+53,Flipkart Supermart Select Bold Sugar,450,4.4,42,07-05-2023,5 Kg,SuperComNet,Flipkart Supermart Select,"Survey No-22, Unit-1, Subbaiah INDL Estate, Begur Hobali, Hulimavu Main Road , Bannerughatta Road",Essential,"Sugar,Jaggery&Salt"
+54,Organic Tattva Brown Sugar,75,4.1,8,23-03-2023,500 g,SuperComNet,Organic Tattva,"Mehrotra Consumer Products Pvt. Ltd. 26G, Sector 31, Ecotech. Greater Noida 201308, UP, INDIA",Essential,"Sugar,Jaggery&Salt"
+55,Tata Iodized Salt,25,4.6,8,20-03-2024,1 Kg,SuperComNet,Tata,"Bombay House, 24 Homi Mody streat, Fort Mumbai 400001",Essential,"Sugar,Jaggery&Salt"
+56,Tata Lite Iodized Salt,45,4.6,13,20-03-2024,1 Kg,SuperComNet,Tata,"Bombay House, 24 Homi Mody streat, Fort Mumbai 400001",Essential,"Sugar,Jaggery&Salt"
+57,Tata Superlite Iodized Salt,60,3.8,1,23-03-2023,1 Kg,SuperComNet,Tata,"Bombay House, 24 Homi Mody streat, Fort Mumbai 400001",Essential,"Sugar,Jaggery&Salt"
+58,parth Kolhapur Block Jaggery,90,4,1,22-09-2022,950 g,SuperComNet,parth,"Block No. 165, Block No -165,Shri Shanu Market Yard,Kolhapur,Maharashtra",Essential,"Sugar,Jaggery&Salt"
+59,Organic Tattva Powder Jaggery,80,4.1,16,18-02-2023,500 g,SuperComNet,Organic Tattva,"Mehrota Consumer Products Pvt .Ltd , 26G,Sector 31,Greater Noida - Ecotech 1, 201308",Essential,"Sugar,Jaggery&Salt"
+60,safe harvest Powder Jaggery,75,4,16,12-02-2023,500 g,SuperComNet,safe harvest,"6,Sy no.28,Yashodara Nagar Colony,Bairamalguda Village,Saroor Nagar Mandal,Rangareddy Dist, Hyderabad-500079,Telangana",Essential,"Sugar,Jaggery&Salt"
+61,BRITANNIA Winkin Cow Flavoured Milk,40,4.5,40,24-01-2023,180 ml,SuperComNet,BRITANNIA,"5/1A Hungerford Street, Kolkata Kolkata WB 700017 IN",Dairy And Eggs,Dairy
+62,Amul Fresh Pure Cream,205,4.1,0,05-08-2022,1 L,SuperComNet,Amul,"Kaira District Co-operative Milk Producers' Union Limited, Amul Dairy, ANAND",Dairy And Eggs,Dairy
+63,OVO Farm Fresh Premium Hen White Eggs,259,3.8,11,04-06-2022,20 units,SuperComNet,OVO Farm Fresh,"KHATA NO.133/155, JAMSAR,CHATAMAKHAMA, BALANGIR, Balangir,Orissa,767065",Dairy And Eggs,Eggs
+64,Fresh Laid Hen White Eggs,270,5,0,04-06-2022,30 units,SuperComNet,Fresh Laid,"KHATA NO.133/155, JAMSAR,CHATAMAKHAMA, BALANGIR, Balangir,Orissa,767065",Dairy And Eggs,Eggs
+65,Lay's Spanish Tomato Tango Chips,20,4.2,10,01-08-2022,52 g,SuperComNet,Lay's,"N2:C-5, MIDC Ranjangaon, Taluka Shirur, Pune, Pin-412220, Maharashtra.",Snacks And Beverages,Snacks
+66,KURKURE Puffcorn Yummy Cheese,20,4.3,0,20-08-2022,55 g,SuperComNet,KURKURE,"VS-Vaani Snacks Pvt. Ltd.,E-367, Phase-1, RIICO Industrial Area, Bhiwadi - 301019, Distt. Alwar, Rajasthan, India.",Snacks And Beverages,Snacks
+67,Coca-Cola PET Bottle,95,4.4,14,13-09-2022,2 L,SuperComNet,Coca-Cola,"18,Bidadi Industrail Area,Hobli Ramnagar,Bidadi,Karnataka 562112",Snacks And Beverages,Beverages
+68,7UP Plastic Bottle,40,4.3,12,05-08-2022,750 ml,SuperComNet,7UP,"pepsico india holdings pvt nh 9 mumbai highway POTHIREDDYPALLY VILLAGE,SANGAREEDY MEDAK DIST-502295 Telangana",Snacks And Beverages,Beverages
+69,Dettol Cool Germ Protection Bathing Soap,402,4.4,23,18-02-2024,125 g  * 6 packs,Suri Consumer,Dettol,"RECKITT BENCKISER (INDIA) PVT.LTD, NO.227, OKHLA INDUSTRIAL ESTATE,PHASE III, OKHLA, NEW DELHI-110020",Personal And Baby Care,Personal Care
+70,HIMALAYA AntiHairFallShampoo,230,4.3,12,21-12-2023,400 ml,Suri Consumer,HIMALAYA,"The Himalaya Drug Company Makali Campus, Tumkur main road,Bangalore- 562162",Personal And Baby Care,Personal Care
+71,Pampers Diaper Pants - L,1199,4.3,30,15-12-2024,64 pieces,Suri Consumer,Pampers,"Procter & Gamble Home Products Pvt. Ltd., PlotNo. 182, Sector A, IndustrialArea, Mandideep -462046,MP, India",Personal And Baby Care,Baby Care
+72,JOHNSON'S Baby Soap,105,4.5,8,15-12-2024,150 g,SuperComNet,Johnson's,"Johnson & Johnson Pvt. Ltd. , L.B.S Marg, Mulund (West), Mumbai - 400080, India",Personal And Baby Care,Baby Care
+73,Nestle Koko Krunch Chocolate Breakfast Cereal Box,185,4.5,15,10-01-2023,350 g,SuperComNet,Nestle,"Kayem Food Industries Pvt. Ltd i Plot No 2244 2247, Hsidc Industrial Estate, Rai, Sonepat - 131029",Packaged Food,Packaged Food
+74,"Saffola Masala Oats, Tasty Evening Snack, Classic Masala, Pouch",202,4.2,12,12-12-2022,500 g,METHOMecom,Saffola,"7th Floor, Grande Palladium, 175, CST Road, Kalina, Santa Cruz (East), Kolivery Village, MMRDA Area, BKC, Santacruz East",Packaged Food,Packaged Food
+75,"MASTER COOK - 500 ml Polypropylene Fridge Container(Pack of 2, Blue, Pink)",95,3.6,48,0,500 ml * 2,CIGFILLIMITED,Master Cook,"PLOT NO-4, VASAI TALUKA COOPERATIVE INDUSTRIAL ESTATE,NEAR SBI, VASAI EAST,STATE- MAHARSHTRA DIST- PALGHAR, PIN 401208",Home And Kitchen,Home And Kitchen
+76,Flipkart SmartBuy Fry Pan 23 cm diameter,1399,4.1,81,0,23 cm,CIGFILLIMITED,Flipkart SmartBuy,"Killa no 14/1,Khewat no 907, Khata no 972, Nathupur, Sonipat,Haryana,131029",Home And Kitchen,Home And Kitchen
+77,Ghadi Detergent Powder,186,4.4,10,21-01-2024,3 Kg,METHOMecom,Ghadi,"RSPL limited 119,120, 121 (Part) Block P& T,Fazal Ganj ,Kalpi road Kanpur -208012 (UP)",Household Care,Household Care
+78,Vim Dish Cleaning Gel ,99,4.5,0,16-01-2024,500 ml,SuperComNet,Vim,Vim Dish Cleaning Gel ,Household Care,Household Care
